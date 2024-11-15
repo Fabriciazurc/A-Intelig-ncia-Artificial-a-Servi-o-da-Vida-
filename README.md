@@ -1,4 +1,4 @@
-# A-Inteligencia-Artificial-a-Servico-da-Vida-
+# A-Inteligencia-Artificial-a-Serviço-da-Vida-
 Esse ebook vem trazendo informações sobre como a inteligência artificial pode oferecer suporte contínuo e personalizado a pacientes oncológicos, melhorando sua qualidade de vida e oferecendo cuidados que vão além da medicina, abordando também as questões emocionais e alimentares essenciais durante o tratamento.
 
 ![Image](https://github.com/user-attachments/assets/48c2f37b-1915-4c07-b2e7-ee44e496d70c)
